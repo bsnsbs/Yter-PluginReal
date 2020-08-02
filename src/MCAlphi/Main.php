@@ -12,7 +12,8 @@ public function onCommand(CommandSender $sender, Command $cmd, string $label,
 array $args) : bool{
 
 switch(§cmd->getName()){
-case "yt":
+
+  case "yt":
 if($sender instanceof Player){
 $sender->sendMessage("§l§bDu brauchst 50 Abonnenten Für yter Rang");
 }
