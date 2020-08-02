@@ -1,6 +1,6 @@
 <?php
 
-namespace MCAlphi;
+namespace Yter-PluginReal;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\command\Command;
