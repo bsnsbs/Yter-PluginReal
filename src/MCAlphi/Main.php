@@ -1,6 +1,6 @@
 <?php
 
-namespace Yter-PluginReal;
+namespace Youtube;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\command\Command;
