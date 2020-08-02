@@ -1,5 +1,5 @@
 name: MCAlphiYterPlugin
-main: MCAlphi
+main: MCAlphi\Main
 author: MCAlphastein
 version: 1.0
 api: [3.0.0]
