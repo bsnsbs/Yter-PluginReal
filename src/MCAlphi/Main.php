@@ -15,7 +15,7 @@ switch(§cmd->getName()){
 
   case "yt":
 if($sender instanceof Player){
-$sender->sendMessage("§l§bDu brauchst 50 Abonnenten Für yter Rang");
+$sender->sendMessage("Du brauchst 50 Abonnenten Für yter Rang");
 }
 break;
 }
