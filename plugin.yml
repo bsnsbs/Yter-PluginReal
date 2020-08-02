@@ -1,0 +1,7 @@
+name: MCAlphiYterPlugin
+main: MCAlphi
+author: MCAlphastein
+version: 1.0
+api: [3.0.0]
+commands:
+  description: YTer Rang Infos!.
