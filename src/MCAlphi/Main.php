@@ -1,6 +1,6 @@
 <?php
 
-namespace Youtube;
+namespace MCAlphi;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\command\Command;
